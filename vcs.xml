@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/SueSmith/android-music-player.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/punker76/simple-music-player.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Deepwinder\AndroidStudioProjects\Deepmusic32" />
+    <option name="cloneParentDir" value="C:\Users\Deepwinder\AndroidStudioProjects\SED" />
   </component>
 </application>
